@@ -10,8 +10,13 @@ The dataset in this project is from the UCI repository link [UCI]https://archive
 ## Model Performance
 The two models made were GRU and LSTM
 - GRU:
-  1) Precision:Macro Avg: 0.69% Weighted Avg: 0.79%
-  2) Recall:Macro Avg: 0.69% Weighted Avg: 0.79%
- 
-  3) 
+  1) Precision: Macro Avg: 0.69% Weighted Avg: 0.79%
+  2) Recall: Macro Avg: 0.70% Weighted Avg: 0.78%
+
+- LSTM:
+  1) Precision: Macro Avg: 0.68% Weighted Avg: 0.79%
+  2) Recall: Macro Avg: 0.70% Weighted Avg: 0.78%
+
+## Comparision
+-GRU slightly is slightly better in precision then LSTM but they are practically the same. 
 
